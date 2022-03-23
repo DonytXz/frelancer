@@ -188,8 +188,8 @@ h2 {
 .service-Title {
   color: black;
 }
-.service {
-}
+/* .service {
+} */
 .service h3 {
   color: var(--secondary);
   font-weight: bold;
